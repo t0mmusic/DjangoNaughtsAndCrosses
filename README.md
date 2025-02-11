@@ -49,6 +49,7 @@ POSTGRES_USER=postgres
 POSTGRES_PASSWORD=postgres
 PGADMIN_DEFAULT_EMAIL=admin@example.com
 PGADMIN_DEFAULT_PASSWORD=admin
+SECRET_KEY=UNBELIEVABLYSECRETKEY
 ```
 
 ### 3. Build and Start the Containers

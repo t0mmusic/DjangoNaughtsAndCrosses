@@ -2,3 +2,4 @@ Django
 daphne
 channels
 psycopg2-binary
+django-environ
